@@ -81,6 +81,6 @@ python "School manage system.py"
 
 ## Author
 
-Daksh
+Daksh Kaushik
 First Year B.Tech CSE (AI/ML)
 Python Learner
