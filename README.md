@@ -49,7 +49,7 @@ School Management System/
 1. Clone the repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/dakshkaushik1209-blip/Python-School-management-system.git
 ```
 
 2. Open the project folder
