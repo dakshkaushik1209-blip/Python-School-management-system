@@ -61,7 +61,7 @@ cd School-Management-System
 3. Run the program
 
 ```bash
-python School_manage_system.py
+python "School manage system.py"
 ```
 
 ## Menu Options
@@ -77,9 +77,7 @@ python School_manage_system.py
 * Graphical User Interface (GUI)
 * Student Record Update
 * Delete Student/Teacher
-* Search Functionality
 * Attendance Management
-* Database Integration (SQLite/MySQL)
 
 ## Author
 
